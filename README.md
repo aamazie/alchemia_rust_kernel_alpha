@@ -1,4 +1,4 @@
-# alchemia_rust_kernel_alpha
+# alchemia alpha
 kernel written in rust, alchemia alpha
 Key Features in This Code:
 Stack Overflow Protection:
