@@ -32,3 +32,6 @@ Test in VirtualBox:
 Set up a new virtual machine in VirtualBox, attach the ISO, and boot from it to see the kernel in action.
 Summary
 This Rust kernel file integrates multiple security features, including stack overflow protection, malware detection, and memory protection. It’s designed to be a starting point for building a more complex and secure operating system. You can expand this further by adding more sophisticated detection algorithms, optimizing the memory management, and integrating real-time security features.
+
+
+DISCLAIMER: This code is meant as a conceptual solution and please review the code in order to address issues on your own system.
